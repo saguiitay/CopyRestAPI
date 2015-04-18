@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>CopyRestAPI</id>
+    <version>1.1.0</version>
+    <title>CopyRestAPI</title>
+    <description>CopyRestAPI is a C# client for the Copy cloud storage service through its RESTful API.</description>
+    <authors>saguiitay</authors>
+    <language>en-US</language>
+    <projectUrl>https://github.com/saguiitay/CopyRestAPI</projectUrl>
+    <licenseUrl>https://raw.githubusercontent.com/saguiitay/CopyRestAPI/master/LICENSE</licenseUrl>
+    <tags>Copy HttpClient REST</tags>
+    <dependencies>
+        <group targetFramework="net45">
+          <dependency id="Microsoft.Net.Http" version="[2.2.22,)" />
+          <dependency id="Newtonsoft.Json" version="[6.0.0,)" />
+          <dependency id="BouncyCastle-PCL" version="1.0.0.6" />
+        </group>
+    </dependencies>
+  </metadata>
+</package>

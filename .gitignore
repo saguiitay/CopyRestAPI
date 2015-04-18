@@ -194,3 +194,7 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+/Working/NuGet/lib/portable-net45+win8+wpa81/bouncy_castle_hmac_sha_pcl.dll
+/Working/NuGet/lib/portable-net45+win8+wpa81/CopyRestAPI.dll
+/Working/NuGet/lib/portable-net45+win8+wpa81/Newtonsoft.Json.dll
+/Working/NuGet/lib/portable-net45+win8+wpa81/Newtonsoft.Json.xml
